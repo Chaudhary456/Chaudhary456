@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **schaudhary332001@gmail.com**
 
-- 📄 Know about my experiences [https://bit.ly/soumya_SDE2023](https://bit.ly/soumya_SDE2023)
+- 📄 Know about my experiences [Resume](https://bit.ly/soumya_SDE2023)
 
 - ⚡ Fun fact **I like to use light themes for coding!**
 
