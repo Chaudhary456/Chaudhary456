@@ -10,9 +10,9 @@
 
 - 📫 How to reach me **schaudhary332001@gmail.com**
 
-- 📄 Know about my experiences [**Resume**](https://bit.ly/soumya_SDE2023)
+- 📄 Know about my experiences **<a href="https://bit.ly/soumya_SDE2023" target="_blank">Resume</a>**
 
-- ⚡ My [**Portfolio**](https://chaudhary456.github.io/devPortfolio/)
+- ⚡ My **<a href="https://chaudhary456.github.io/devPortfolio/" target="_blank">Portfolio</a>**
 
 - ⚡ Fun fact **I like to use light themes for coding!**
 
