@@ -12,6 +12,8 @@
 
 - 📄 Know about my experiences [**Resume**](https://bit.ly/soumya_SDE2023)
 
+- ⚡ My [**Portfolio**](https://chaudhary456.github.io/devPortfolio/)
+
 - ⚡ Fun fact **I like to use light themes for coding!**
 
 <h3 align="left">Connect with me:</h3>
