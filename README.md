@@ -18,8 +18,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/soumya-chaudhary-972500188/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/soumya-chaudhary-972500188/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/18037552/ninja-456" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/18037552/ninja-456" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/soumya-chaudhary-972500188/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="https://www.linkedin.com/in/soumya-chaudhary-972500188/" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/18037552/ninja-456" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg" alt="https://stackoverflow.com/users/18037552/ninja-456" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/drunkenmaster5/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/drunkenmaster5/" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/https://www.codechef.com/users/ninja_456" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/ninja_456" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/https://www.hackerrank.com/ninja_456" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/ninja_456" height="30" width="40" /></a>
@@ -31,12 +31,6 @@
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left"> 
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
-</a> 
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-</a> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
   <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="javascript" width="40" height="40"/>
 </a>  
@@ -46,10 +40,10 @@
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
   <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="40" height="40"/></a>  
 <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg" alt="nodejs" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" alt="nodejs" width="50" height="40"/>
 </a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" alt="mongodb" width="40" height="40"/> 
+  <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" alt="mongodb" width="50" height="40"/> 
 </a>
 <a href="https://expressjs.com" target="_blank" rel="noreferrer">
   <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="express" width="40" height="40"/>
