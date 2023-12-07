@@ -1,14 +1,14 @@
 ![MasterHead](https://chkskills.com/wp-content/uploads/2020/04/PNC-Animated-Banners.gif)
 <h1 align="center">Hi 👋, I'm Soumya Chaudhary</h1>
-<h3 align="center">A passionate WEB Developer from India</h3>
+<h3 align="center">A passionate Software Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chaudhary456&label=Profile%20views&color=0e75b6&style=flat" alt="chaudhary456" /> </p>
 
-- 🌱 I’m currently learning **TypeScript**
+- 🌱 I’m currently learning **Android Developement**
 
-- 💬 Ask me about **DataStructures & Algo,MERN**
+- 💬 Ask me about **MERN, Android and Java**
 
-- 📫 How to reach me **schaudhary332001@gmail.com**
+- 📫 How to reach me **letsgomailsoumya@gmail.com**
 
 - 📄 Know about my experiences **<a href="https://bit.ly/soumya_SDE2023" target="_blank">Resume</a>**
 
@@ -30,7 +30,11 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-<p align="left"> 
+<p align="left">
+<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/java/java-vertical.svg" alt="postman" width="40" height="40"/>
+</a>
+<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" alt="postman" width="40" height="40"/>
+</a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
   <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="javascript" width="40" height="40"/>
 </a>  
@@ -57,12 +61,16 @@
 </a>
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
   <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vscode" width="40" height="40"/>
+</a> 
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c1/Android_Studio_icon_%282023%29.svg" alt="vscode" width="40" height="40"/>
 </a>   
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
 </a> 
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-</a> 
+</a>
+
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chaudhary456&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="chaudhary456" /></p>
